@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ice_cube (0.16.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ice_cube
+
+BUNDLED WITH
+   2.0.1
